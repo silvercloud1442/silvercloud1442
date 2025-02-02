@@ -1,4 +1,4 @@
-## 👋 Привет! Я аналитик данных
+## 👋 Hi
 
 <p>
   <a href="mailto:kudakovazam@yandex.ru">
@@ -42,7 +42,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/silvercloud1442/ChurnPredict">Проект 1</a></td>
+      <td><a href="https://github.com/silvercloud1442/ChurnPredict">Анализ оттока клиентов</a></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
@@ -52,7 +52,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/silvercloud1442/ClientsSegmentation">Проект 2</a></td>
+      <td><a href="https://github.com/silvercloud1442/ClientsSegmentation">Сегментация клиентов с помощью кластеризации  </a></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
