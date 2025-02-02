@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Seaborn-004B87?    style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Seaborn-004B87?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 ### 📊 Проекты:
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>📌 Название</th>
