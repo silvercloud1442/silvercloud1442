@@ -1,7 +1,7 @@
 ## 👋 Hi
-
-![](static/stats.gif)
-
+<p align="center">
+  <img src=static/stats.gif>
+</p>
 <p>
   <a href="mailto:kudakovazam@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -61,6 +61,12 @@
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/silvercloud1442/Dashboards">Дашборды Power BI</a></td>
+      <td><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></td>
+    </tr>
+       
+
   </tbody>
 </table>
 
