@@ -62,7 +62,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/silvercloud1442/Dashboards">Дашборды Power BI</a></td>
+      <td><a href="https://github.com/silvercloud1442/Dashboards">Визаулизация данных Power BI</a></td>
       <td><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></td>
     </tr>
        
