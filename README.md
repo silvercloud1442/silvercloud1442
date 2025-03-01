@@ -1,6 +1,6 @@
 ## 👋 Hi
 <p align="center">
-  <img src=static/stats.gif>
+  <img src=static\stats.gif>
 </p>
 <p>
   <a href="mailto:kudakovazam@yandex.ru">
