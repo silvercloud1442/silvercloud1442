@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/amazon%20s3-E97627?style=for-the-badge&logo=amazons3&logoColor=white">
 </p>
 
 ---
@@ -54,7 +55,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/silvercloud1442/ClientsSegmentation">Сегментация клиентов с помощью кластеризации  </a></td>
+      <td><a href="https://github.com/silvercloud1442/ClientsSegmentation">Сегментация клиентов</a></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
@@ -65,7 +66,17 @@
       <td><a href="https://github.com/silvercloud1442/Dashboards">Визаулизация данных Power BI</a></td>
       <td><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></td>
     </tr>
-       
+    <tr>
+      <td><a href="https://github.com/silvercloud1442/A-B_test">А/B тестирование</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/amazon%20s3-E97627?style=flat&logo=amazons3&logoColor=white">
+      </td>
+    </tr>
 
   </tbody>
 </table>
