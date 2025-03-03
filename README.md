@@ -1,4 +1,4 @@
-## 👋 Hi
+## 👋 TEXT
 <p align="center">
   <img src=static\stats.gif>
 </p>
