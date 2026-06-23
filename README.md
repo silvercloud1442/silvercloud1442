@@ -5,7 +5,7 @@
   <a href="mailto:kudakovazam@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/Silver_cloud1">
+  <a href="https://t.me/Silver_cloud12">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
