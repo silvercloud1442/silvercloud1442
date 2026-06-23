@@ -38,7 +38,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>📌 Название</th>
+      <th></th>
       <th>🛠️ Инструменты</th>
     </tr>
   </thead>
